@@ -1,12 +1,6 @@
 ### Hi there 👋
-
-
-**elboussalmaniOualid/elboussalmaniOualid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
+EL BOUSSALMANI Oualid Softwar engineer - ENSA D'AL HOCEIMA, passionate about IT development.
 - 🔭 I’m currently working on Blood Donation to city Al Hoceima
 - 🌱 I’m currently learning Cloud computing
-- 💬 Ask me about : elboussalmani.walid@gmail.com
-- 📫 How to reach me: ...
+- 📫 How to reach me: elboussalmani.walid@gmail.com
 
